@@ -14,7 +14,7 @@ export default function Header() {
           className="text-xl font-bold tracking-tight"
           style={{ color: "var(--gold-primary)" }}
         >
-          IMJIN.GG
+          IMJIN.INFO
         </span>
 
         <nav className="hidden md:flex items-center gap-8">
