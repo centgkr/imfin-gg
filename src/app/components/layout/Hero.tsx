@@ -9,7 +9,7 @@ export default function Hero() {
           className="text-sm font-medium tracking-widest mb-4"
           style={{ color: "var(--gold-muted)" }}
         >
-          IMJIN.GG DATA PLATFORM
+          IMJIN.INFO DATA PLATFORM
         </p>
 
         <h1
