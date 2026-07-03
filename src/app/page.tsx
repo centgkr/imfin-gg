@@ -2,6 +2,7 @@ import Header from "@/app/components/layout/Header";
 import Hero from "@/app/components/layout/Hero";
 import QuickMenu from "@/app/components/layout/QuickMenu";
 import WeeklyMeta from "@/app/components/layout/WeeklyMeta";
+import Coupons from "@/app/components/layout/Coupons";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero />
       <QuickMenu />
       <WeeklyMeta />
+      <Coupons />
     </main>
   );
 }
