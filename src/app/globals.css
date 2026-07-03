@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  --bg-primary: #0B0D10;
+  --bg-secondary: #0F1215;
+  --surface: #13171D;
+  --surface-hover: #181D24;
+  --border: #242A31;
+  --gold-primary: #C9A15C;
+  --gold-muted: #8A754A;
+  --text-primary: #F2EFE6;
+  --text-secondary: #9BA1A8;
+  --success: #4C9A6A;
+  --warning: #C98A3B;
+  --danger: #B24B4B;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: "Pretendard", -apple-system, BlinkMacSystemFont, sans-serif;
+}
